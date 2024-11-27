@@ -152,4 +152,4 @@ These dependencies are listed in the `requirements.txt` file and will be install
 
 ## Future Work
 
-For details on how this application can be deployed in production and further enhancements, see [Next Steps for Production Deployment](NEXT_STEPS.md).
+For details on how this application can be deployed in production and other next steps, see [Next Steps for Production Deployment](NEXTSTEPS.md).
